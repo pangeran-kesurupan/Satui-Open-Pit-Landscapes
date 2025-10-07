@@ -1,6 +1,6 @@
 # Satui Open-Pit Landscapes - RadarGeo.study
 
-> Versi lokal dari prototype "Website Storytelling Design" — front-end React (Vite) dibangun dari komponen UI shadcn dan radix UI.
+> Versi lokal dari prototype "Satui-Open-Pit-Landscapes" — front-end React (Vite) dibangun dari komponen UI shadcn dan radix UI.
 
 Ringkasan: proyek ini menampilkan storytelling interaktif berbasis peta/satelit (SAR & optical) dan visualisasi perubahan lahan. Aset gambar besar disimpan di `src/assets` dan dipetakan lewat alias di `vite.config.ts`.
 
