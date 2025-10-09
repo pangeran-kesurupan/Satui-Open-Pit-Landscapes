@@ -1450,11 +1450,8 @@ Having looked at a single moment, let's now turn back time. The animation below 
       </p>
       </div>
     </div>
-
   </div>
 </section>
-
-
 
       {/* Why Radar */}
       <section
