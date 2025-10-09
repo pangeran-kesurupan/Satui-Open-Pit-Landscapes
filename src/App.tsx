@@ -1848,8 +1848,6 @@ Common in areas with dense vegetation, where radar waves are repeatedly scattere
               </CardContent>
             </Card>
           </div>
-
-
         </div>
       </section>
     </div>
